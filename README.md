@@ -22,27 +22,27 @@ QCon深圳2020全球开发者大会PPT来自[官网](https://qcon.infoq.cn/2020/
 
 ### 玩转DevOps
 
-* [研发效能提升最后一公里之编译加速]()
-* [打开魔方—华为企业DevOps运维体系与]()
+* [研发效能提升最后一公里之编译加速](/devops/研发效能提升最后一公里之编译加速-陈睿.pdf)
+* [打开魔方—华为企业DevOps运维体系与](/devops/华为企业DevOps运维体系与技术实践-刘奇.pdf)
 
 ### 现代数据架构
 
-* [下一个SnowFlake? 看云上ClickHouse如何做存储计算分离]()
-* [OPPO万亿级文档数据库MongoDB集群性能优化实践]()
-* [openLooKeng架构解析和性能优化实践]()
+* [下一个SnowFlake? 看云上ClickHouse如何做存储计算分离](/data-architecture/看云上ClickHouse如何做存储计算分离-陈龙.pdf)
+* [OPPO万亿级文档数据库MongoDB集群性能优化实践](/High-availability-high-performance/OPPO万亿级文档数据库MongoDB集群性能优化实践-杨亚洲pptx.pdf)
+* [openLooKeng架构解析和性能优化实践](/data-architecture/openLooKeng架构解析和性能优化实践-罗旦.pdf)
 
 ### 前端工程化探索
 
-* [基于 KAITIAN 的前端工程研发模式变革]()
-* [Feflow云工程化的探索与实践]()
-* [从NodeX到Serverless，滴滴前端服务工程化实践之路]()
-* [阿里前端在智能工程化上的探索]()
+* [基于 KAITIAN 的前端工程研发模式变革](/front-end/)
+* [Feflow云工程化的探索与实践](/front-end/Feflow云工程化的探索与实践-翟志伟.pdf)
+* [从NodeX到Serverless，滴滴前端服务工程化实践之路](/front-end/从NodeX到Serverless滴滴前端服务工程化实践之路-陈钦辉.pdf)
+* [阿里前端在智能工程化上的探索](/front-end/)
 
 ### 高可用、高性能系统背后的秘密
 
-* [OPPO业务多活架构演进和实践]()
-* [单机 20 亿指标，知乎 Graphite 极致优化！]()
-* [腾讯金融基础支付平台架构演进]()
+* [OPPO业务多活架构演进和实践](/data-architecture/OPPO业务多活实践-罗代均.pdf)
+* [单机 20 亿指标，知乎 Graphite 极致优化！](/High-availability-high-performance/单机20亿指标-知乎Graphite极致优化-熊豹.pdf)
+* [腾讯金融基础支付平台架构演进](/High-availability-high-performance/腾讯金融基础支付平台架构演进-赵峰.pdf)
 
 ### 云端一体化移动开发
 
